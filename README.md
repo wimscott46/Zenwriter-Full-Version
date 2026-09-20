@@ -232,4 +232,4 @@ This repository serves as the official landing page for ZenWriter. The software 
 **Get the most recent version of ZenWriter today!**
 
 ---
-**Last updated:** 2026-09-20 10:40:03 UTC
+**Last updated:** 2026-09-20 14:29:56 UTC
